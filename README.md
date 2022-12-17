@@ -97,13 +97,11 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- FRONT END REPOSITORY -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Front end link <a name="live-demo"></a>
 
-> Coming soon.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Front end repository link](https://github.com/AlphaNtihinduka/react_frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
